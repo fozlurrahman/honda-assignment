@@ -1,0 +1,107 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins',
+        sans-serif;
+}
+
+p {
+    line-height: 24px;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.btn {
+    background: #E76F51;
+
+}
+
+
+
+/* header css */
+
+header {
+
+    height: 698px;
+    background: #264653;
+    color: white;
+}
+
+
+.header-container p {
+    font-size: 13px;
+    text-align: justify;
+
+}
+
+.header-container h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+/* header css */
+
+
+/* fetured-bike */
+#fetured-bike {
+    margin-top: 65px;
+}
+
+.bike-container p {
+    color: #E76F51;
+}
+
+.bike-container hr {
+    width: 58px;
+    height: 2px;
+    margin: 0 auto;
+    color: #fa4b20;
+}
+
+.gray-img {
+    filter: grayscale(100%);
+}
+
+/* fetured-bike */
+
+
+/* clients section css */
+
+#Clients-section {
+    margin-top: 50px;
+}
+
+.card-text {
+    color: #6C6C6C;
+}
+
+h1 span {
+    color: #E76F51;
+}
+
+
+
+.fa-star {
+    color: #E76F51;
+    margin: 2px;
+}
+
+.fa-star:last-child {
+    color: rgb(61, 60, 60);
+}
+
+/* clients section css */
+
+
+
+/* faq section */
+#faq-section {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+/* faq section */
